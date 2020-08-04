@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Tutorials](README.md)
+* [Key words](key-words.md)
 * [H. pylori](h.-pylori/README.md)
   * [snps](h.-pylori/snps.md)
   * [aro](h.-pylori/aro.md)
